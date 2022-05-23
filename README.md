@@ -1,3 +1,3 @@
 ### Heroku
 
-https://git.heroku.com/later-hat8r.git
+https://later-hat8r.herokuapp.com/
